@@ -1,0 +1,28 @@
+{
+  "sales_tax": 0.08,
+  "items": [
+    {
+      "name": "Hamburger",
+      "icon_path": "hamburger.png",
+      "base_varients": {"Single": 100, "Double": 200},
+      "additions_varients": {"Mayo": 0, "Letuce": 0, "Pickles": 0, "Onions": 0}
+    },
+    {
+      "name": "Hotdog",
+      "icon_path": "hotdog.png",
+      "base_varients": {"Hot Dog": 100},
+      "additions_varients": {"Kethup": 0, "Relish": 0}
+    },
+    {
+      "name": "Fries",
+      "icon_path": "fries.png",
+      "base_varients": {"Small": 100, "Medium": 200, "Large": 300},
+      "additions_varients": {}
+    },{
+      "name": "Coke",
+      "icon_path": "coke.png",
+      "base_varients": {"Small": 10, "Medium": 20, "Large": 30},
+      "additions_varients": {}
+    }
+  ]
+}
